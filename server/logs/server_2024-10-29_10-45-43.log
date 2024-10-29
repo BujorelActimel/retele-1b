@@ -1,0 +1,4 @@
+DEBUG: 2024/10/29 10:47:37.788839 server.go:101: [Conn #1] New connection from 172.17.100.223:56256
+DEBUG: 2024/10/29 10:47:37.789712 server.go:133: [Conn #1] Problem 1 input: 1 2 3 4
+DEBUG: 2024/10/29 10:47:37.790077 server.go:264: [Conn #1] Sending result: Sum: 10
+DEBUG: 2024/10/29 10:47:37.790610 server.go:106: [Conn #1] Connection closed. Duration: 1.791174ms
